@@ -1,0 +1,29 @@
+.p{
+    display: none;
+}
+nav ul li a {
+text-decoration: none;
+color: #fff; 
+padding: 10px 11px;
+display:block;
+}
+ul li a:hover{
+background-color: white; 
+}
+.jumbotron-fluid{
+z-index: 1;
+}
+.pricing
+    {
+position: relative;
+bottom: 50px;
+left: 110px;
+    }
+.btn1
+    {
+border: 1px solid white;
+    }
+hr
+    {
+color: white;
+    }
